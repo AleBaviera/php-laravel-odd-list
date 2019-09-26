@@ -1,0 +1,24 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+
+header{
+  background-color: yellow;
+  color: gray;
+}
+
+div{
+  background-color: gray;
+  color: purple;
+}
+
+footer{
+  background-color: purple;
+  color: black;
+}
