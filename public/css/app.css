@@ -10644,6 +10644,10 @@ a.text-dark:focus {
   }
 }
 
+ul {
+  margin: 0;
+}
+
 header {
   background-color: yellow;
   color: gray;

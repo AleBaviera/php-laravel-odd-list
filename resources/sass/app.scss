@@ -7,7 +7,9 @@
 // Bootstrap
 @import '~bootstrap/scss/bootstrap';
 
-
+ul{
+  margin:0;
+}
 header{
   background-color: yellow;
   color: gray;
